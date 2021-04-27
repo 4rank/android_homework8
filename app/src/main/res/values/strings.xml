@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fedorinchik_hw8</string>
+    <string name="button_text">Узнать заряд батареи и объем памяти</string>
+</resources>
